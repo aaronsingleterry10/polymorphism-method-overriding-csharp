@@ -10,7 +10,7 @@ namespace MethodOverriding
         {
             foreach (var shape in shapes)
             {
-
+                shape.Draw();
             }
 
         }
